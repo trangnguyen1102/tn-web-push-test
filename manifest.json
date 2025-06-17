@@ -1,0 +1,6 @@
+{
+  "name": "TN Push Test",
+  "short_name": "TNPushTest",
+  "start_url": ".",
+  "display": "standalone"
+}
